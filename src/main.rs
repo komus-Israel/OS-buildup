@@ -10,8 +10,9 @@ mod panic_handler_file;
  */
 
 
-fn main() {
+pub extern "C" fn _start() -> !{
     
+    loop {}
     //panic_handler_file::panic();
 
 }
