@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "OS_kernel_buildup"
+name = "os_kernel_buildup"
 version = "0.1.0"
